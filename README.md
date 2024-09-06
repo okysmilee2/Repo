@@ -8,7 +8,6 @@ INDONESIA
 wget raw.githubusercontent.com/okysmilee2/repo/main/indonesia && bash indonesia
 ```
 # Root
-sudo su
 
 Lalu
 
