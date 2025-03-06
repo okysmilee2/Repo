@@ -16,5 +16,5 @@ sudo su
 wget https://raw.githubusercontent.com/syntax-err0rr/Root-VPS/main/root.sh && chmod +x root.sh && ./root.sh
 ```
 ```
-wget -q https://raw.githubusercontent.com/shan-only/autoscript/main/indo.sh && chmod +x indo.sh && ./indo.sh
+wget -q https://raw.githubusercontent.com/okysmilee2/repo/main/indo.sh && chmod +x indo.sh && ./indo.sh
 ```
